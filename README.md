@@ -1,16 +1,14 @@
-# flutter_rsa_encrption_application
+# Flutter RSA Encryption Application
 
-A new Flutter project.
+This program is to test flutter and dart, testing out a basic application that allows the user to encrypt and decrypt strings with the RSA algorithm.
 
-## Getting Started
+# Contribution 
 
-This project is a starting point for a Flutter application.
+If you'd like to contribute to `flutter_rsa_encryption_application` please submit a pull-request on a feature branch.
 
-A few resources to get you started if this is your first Flutter project:
+# Installing
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Clone the repo:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    git clone https://github.com/Sommos/flutter_rsa_encryption_application
+    cd flutter_rsa_encryption_application
